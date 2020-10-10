@@ -34,7 +34,14 @@ export default class ResumeDetails extends Component{
                     institute:"NIELIT",
                     details:" Online 4 Week Certificate Course in Core Java",
                     link:"./certificates/java.pdf"
+                },
+                {
+                    id:1,
+                    institute:"NIELIT",
+                    details:" Online 4 Week Certificate Course in Advanced Data Analytics Using R",
+                    link:"./certificates/DataAnalyticsUsingR.pdf"
                 }
+                
             ],
             skills:[
                 {
