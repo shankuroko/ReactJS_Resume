@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shankuroko/ReactJS_Resume.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/shankuroko/ReactJS_Resume.git/static/js/main.93fca49c.chunk.js",
+    "main.js.map": "/shankuroko/ReactJS_Resume.git/static/js/main.93fca49c.chunk.js.map",
+    "runtime-main.js": "/shankuroko/ReactJS_Resume.git/static/js/runtime-main.0a73ee13.js",
+    "runtime-main.js.map": "/shankuroko/ReactJS_Resume.git/static/js/runtime-main.0a73ee13.js.map",
+    "static/js/2.5f887cf4.chunk.js": "/shankuroko/ReactJS_Resume.git/static/js/2.5f887cf4.chunk.js",
+    "static/js/2.5f887cf4.chunk.js.map": "/shankuroko/ReactJS_Resume.git/static/js/2.5f887cf4.chunk.js.map",
+    "index.html": "/shankuroko/ReactJS_Resume.git/index.html",
+    "precache-manifest.4c45d7e228c6537b74b1b59f7518c46a.js": "/shankuroko/ReactJS_Resume.git/precache-manifest.4c45d7e228c6537b74b1b59f7518c46a.js",
+    "service-worker.js": "/shankuroko/ReactJS_Resume.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/shankuroko/ReactJS_Resume.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5f887cf4.chunk.js.LICENSE.txt": "/shankuroko/ReactJS_Resume.git/static/js/2.5f887cf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a73ee13.js",
+    "static/js/2.5f887cf4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.93fca49c.chunk.js"
+  ]
+}
